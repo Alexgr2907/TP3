@@ -5,7 +5,7 @@ import networkx as nx
 # Y [yes] or N [no]
 # paul est passé par là
 # comme t'as déjà fait les docstring, je commente juste le code bisous
-
+#j'ai rien modifé ahaha
 def display_nx_graph(G):
     """Display a NetworkX graph using matplotlib.
 
